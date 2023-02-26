@@ -27,4 +27,9 @@ a{
 .download{
     font-size: 20px;
     font-weight: bold;
+    margin: 0;
+}
+embed{
+    width: 100%;
+    aspect-ratio: 16 / 10;
 }
