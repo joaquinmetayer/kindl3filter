@@ -32,4 +32,5 @@ a{
 embed{
     width: 100%;
     aspect-ratio: 16 / 10;
+    margin: 0;
 }
