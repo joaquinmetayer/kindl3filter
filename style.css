@@ -34,3 +34,11 @@ embed{
     aspect-ratio: 16 / 10;
     margin: 0;
 }
+.chrome{
+    width: 20px;
+    padding-right: 10px;
+}
+.link{
+    display: flex;
+    align-items: center;
+}
